@@ -11,8 +11,8 @@ To build an easy-to-understand model that helps identify CKD early by analyzing 
 
 - Used Microsoft Excel to build a decision tree model.
 - Compared two versions:
-  - ✅ One **with hemoglobin (hemo)** as a predictor.
-  - ❌ One **without hemo** to see its impact.
+  - One **with hemoglobin (hemo)** as a predictor.
+  - One **without hemo** to see its impact.
 - Evaluated how accurate, simple, and useful each model was.
 
 ---
@@ -25,7 +25,7 @@ Including **hemoglobin (hemo)** made a big difference:
 
 ---
 
-## ✅ Results
+## Results
 
 - **90% accuracy** on the test data.
 - Model correctly predicted all CKD and non-CKD cases.
@@ -33,4 +33,12 @@ Including **hemoglobin (hemo)** made a big difference:
 
 ---
 
+## 📁 Files
+
+- `With Hemo.xlsx`
+- `Without Hemo.xlsx`
+- `Chronic Kidney Disease Dataset.xlsx`: Dataset
+- `README.md`: This summary.
+
+---
 
