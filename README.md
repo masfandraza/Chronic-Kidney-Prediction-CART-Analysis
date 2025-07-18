@@ -33,7 +33,7 @@ Including **hemoglobin (hemo)** made a big difference:
 
 ---
 
-## 📁 Files
+## Files
 
 - `With Hemo.xlsx`
 - `Without Hemo.xlsx`
